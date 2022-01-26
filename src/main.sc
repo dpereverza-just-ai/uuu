@@ -12,7 +12,7 @@ theme: /
         q!: Tommy
         a: Tommy
         script:
-            $analytics.setSessionResult("Tommy")
+            $analytics.setSessionResult("Tommy2")
             $analytics.setComment("Tommy Comment")
             $analytics.setMessageLabel("Новая тема", "Оценка")
             $analytics.setSessionLabel("Tommy Session")
